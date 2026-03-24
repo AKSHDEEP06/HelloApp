@@ -8,15 +8,13 @@
  * UC 2: Display User Name - The application should accept a user's name as
  * a command-line argument and display a personalized greeting.
  *
- * @author AKshdeep Singh
- * @version 1.0
+ * @author Akshdeep Singh
+ * @version 2.0
  * @since UC1
  */
 
 public class HellloApp {
     
-
-
     public static void main(String[] args) {
 
         // Check if user provided a name
