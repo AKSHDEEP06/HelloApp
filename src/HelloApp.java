@@ -5,7 +5,7 @@
  * If no names are provided, it will display "Hello, World!"
  * 
  * Author: Akshdeep Singh
- * Version: 1.0
+ * Version: 4.0
  * Since: UC4
  */
 
